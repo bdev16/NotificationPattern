@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\NotificationPattern.exe
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\NotificationPattern.deps.json
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\NotificationPattern.runtimeconfig.json
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\NotificationPattern.dll
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\NotificationPattern.pdb
+C:\Users\aluno\Documents\dev\NotificationPattern\bin\Debug\net8.0\Flunt.dll
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.AssemblyInfo.cs
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\Notifica.D61ADA0C.Up2Date
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.dll
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\refint\NotificationPattern.dll
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.pdb
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\NotificationPattern.genruntimeconfig.cache
+C:\Users\aluno\Documents\dev\NotificationPattern\obj\Debug\net8.0\ref\NotificationPattern.dll

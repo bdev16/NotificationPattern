@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btR9yoWitGI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aluno\\Documents\\dev\\NotificationPattern\\NotificationPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
